@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=btnx
+Type=Application
+Categories=System;
+Exec=gksu /usr/sbin/btnx-config
+Icon=btnx.png
+GenericName[en_US]=
